@@ -15,5 +15,5 @@ Write a function which takes as input a list of objects describing the items pur
 ================================================
 	Total       Rs.40776.83
 ================================================
-	Have a happy Monday!                         
+	Have a happy Saturday!
 ************************************************
