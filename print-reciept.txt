@@ -1,0 +1,19 @@
+Write a function which takes as input a list of objects describing the items purchased by a customer in a shopping mall and generates the reciept in the following format.
+
+
+
+*************************************************
+       JDs shopping mall
+       HSR Layout
+       Bangalore, India
+       Date: 27/02/2019
+================================================
+	Product Name	Product Price
+	Kindle		Rs. 12000.95
+	Mobile   	Rs. 27750.99
+	Charger		Rs. 1024.89
+================================================
+	Total       Rs.40776.83
+================================================
+	Have a happy Monday!                         
+************************************************
